@@ -1,12 +1,12 @@
 {
-  "name": "tkSkratchpadJS",
+  "name": "tkskratchpadjs",
   "version": "1.0.0",
   "scripts": {
     "dev": "tsnd --no-notify --watch --clear --respawn src/app.ts",
     "parcel": "parcel src/index.html"
   },
-  "author": "",
-  "license": "GNU 3.0",
+  "author": "TurkeyKittin",
+  "license": "GNU General Public License v3.0",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.2.1",
