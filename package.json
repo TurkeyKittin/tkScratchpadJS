@@ -6,7 +6,7 @@
     "parcel": "parcel src/index.html"
   },
   "author": "TurkeyKittin",
-  "license": "GNU General Public License v3.0",
+  "license": "GPL-3.0 License",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.2.1",
